@@ -1,2 +1,2 @@
 # os
-os lab-1 and 2
+os lab-1,2,3
